@@ -13,7 +13,10 @@
 		<setters></setters>
 		<sheet display="true"/>
 		<rules>
-			
+            <stat name="innate speed" value="30" bonus="base" />
+            <stat name="innate speed:fly" value="30" bonus="base" />
+            <stat name="innate speed:climb" value="30" bonus="base" />
+            <stat name="innate speed:swim" value="30" bonus="base" />
 		</rules>
 	</element>
 	<!-- place your elements here -->
