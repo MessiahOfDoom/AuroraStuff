@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
-		<name>File 1</name>
+		<name>Ash</name>
+		<description>The Race + Backstory for Ash</description>
 		<update version="1.0.0">
 			<file name="file1.xml" url="https://raw.githubusercontent.com/MessiahOfDoom/AuroraStuff/master/messiahs-homebrew/file1.xml" />
 		</update>
 	</info>
 	
+	<element name="Ash" type="Race" source="An Elf and an Orc" id="ID_HOMEBREW_RACE_ASH_TEVEI">
+		<description></description>
+		<setters></setters>
+		<sheet display="true"/>
+		<rules>
+			
+		</rules>
+	</element>
 	<!-- place your elements here -->
 	
 </elements>

@@ -7,6 +7,7 @@
 		</update>
 	</info>
 	<files>
-		<file name="file1.xml" url="https://raw.githubusercontent.com/MessiahOfDoom/AuroraStuff/master/messiahs-homebrew/file1.xml" />
+		<file name="ash.xml" url="https://raw.githubusercontent.com/MessiahOfDoom/AuroraStuff/master/messiahs-homebrew/ash.xml" />
+		<file name="ash.xml" url="https://raw.githubusercontent.com/MessiahOfDoom/AuroraStuff/master/messiahs-homebrew/sources.xml" />
 	</files>
 </index>

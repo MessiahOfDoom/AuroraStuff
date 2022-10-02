@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<update version="0.0.1">
+			<file name="sources.xml" url="https://raw.githubusercontent.com/MessiahOfDoom/AuroraStuff/master/messiahs-homebrew/sources.xml" />
+		</update>
+	</info>
+	
+    <element name="An Elf and an Orc" type="Source" source="An Elf and an Orc" id="ID_HOMEBREW_SOURCE_ELF_AND_ORC">
+        <description>
+			<![CDATA[<p>Races i created using the "An Elf and an Orc had a little Baby"</p>]]>
+		</description>
+        <setters>
+            <set name="abbreviation">ELFORC</set>
+            <set name="url">https://www.dmsguild.com/product/321845/An-Elf-and-an-Orc-Had-a-Little-Baby-Parentage-and-Upbringing-in-DD</set>
+            <set name="author">V.J. Harris (Book), Adam Hancock (Book), MessiahOfDoom (Combinations)</set>
+            <set name="homebrew">true</set>
+        </setters>
+    </element>
+
+    <element name="MessiahOfDOom" type="Source" source="Messiah" id="ID_HOMEBREW_SOURCE_MESSIAH">
+        <description>
+			<![CDATA[<p>Anything else i may create</p>]]>
+		</description>
+        <setters>
+            <set name="abbreviation">MOD</set>
+            <set name="url">messiahofdoom.com</set>
+            <set name="author">MessiahOfDoom</set>
+            <set name="homebrew">true</set>
+        </setters>
+    </element>
+	
+</elements>
